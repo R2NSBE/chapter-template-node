@@ -1,0 +1,26 @@
+{
+  "name": "chapter-template",
+  "version": "1.0.0",
+  "description": "website template for chapters in region 2",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "engines": {
+    "node": "o.8.*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R2NSBE/chapter-template-node.git"
+  },
+  "author": "R2 Comm Chair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R2NSBE/chapter-template-node/issues"
+  },
+  "homepage": "https://github.com/R2NSBE/chapter-template-node#readme"
+}
